@@ -1,5 +1,5 @@
 💫 About Me:
-I'm Khatwangadha Reddy, a passionate Full Stack Web Developer with a drive for creating innovative solutions.
+I'm KhatwangadarReddy, a passionate Full Stack Web Developer and AWS Certified Cloud Practitioner with a drive for creating innovative solutions.
 
 🔭 I'm currently working on building scalable web applications
 🌱 I'm learning advanced React patterns and cloud architecture
