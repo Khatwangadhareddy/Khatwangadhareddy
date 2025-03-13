@@ -26,5 +26,6 @@ I'm passionate Full Stack Web Developer
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Khatwangadhareddy/Khatwangadhareddy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation (dark mode)](https://github.com/Khatwangadhareddy/Khatwangadhareddy/blob/output/github-snake-dark.svg)
+
 
