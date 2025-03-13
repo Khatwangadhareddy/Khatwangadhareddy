@@ -73,12 +73,12 @@ I'm Khatwangadha Reddy, a passionate Full Stack Web Developer with a drive for c
 
 ## 🌟 Skills Spotlight
 ```javascript
-const khatwangadha = {
+const khatwangadharReddy = {
   code: ["JavaScript", "TypeScript", "Python", "Java"],
   tools: ["React", "Node", "NextJS", "Docker"],
   architecture: ["microservices", "serverless", "event-driven"],
   databases: ["MongoDB", "PostgreSQL", "Redis"],
-  challenge: "Currently building a full-stack application with realtime features"
+  challenge: "Currently building a React Ai-Travel planner application with realtime features"
 }
 ```
 
