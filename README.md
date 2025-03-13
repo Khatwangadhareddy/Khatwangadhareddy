@@ -24,3 +24,7 @@ I'm passionate Full Stack Web Developer
 [![](https://visitcount.itsvg.in/api?id=Khatwangadhareddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Khatwangadhareddy/Khatwangadhareddy/blob/output/github-contribution-grid-snake.svg)
+
